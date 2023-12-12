@@ -42,7 +42,9 @@ object-fit: cover;}
 
 iframe{
 margin: 40px;
-align-self: center; }
+align-self: center;
+width: 40vw;
+height: 40vh;}
 
 
 
